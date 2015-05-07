@@ -1,0 +1,26 @@
+{
+  "name": "jshint-passed-reporter",
+  "version": "1.0.0",
+  "description": "A JSHint Reporter that outputs which files had no errors. Useful for pruning a long list of file exclusions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/bspaulding/jshint-passed-reporter.git"
+  },
+  "keywords": [
+    "jshint",
+    "reporter"
+  ],
+  "author": "Bradley J. Spaulding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bspaulding/jshint-passed-reporter/issues"
+  },
+  "homepage": "https://github.com/bspaulding/jshint-passed-reporter",
+  "dependencies": {
+    "lodash": "^3.8.0"
+  }
+}
